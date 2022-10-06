@@ -14,27 +14,28 @@ body {
 
 .container1 {
     background-color: red;
-    height: 400px;
+    height: 300px;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
     margin-top: 10px;
 }
 
-/* .container2 {
-    background-color: blue;
-    height: 200px;
+.container2 {
+    background-color: red;
+    height: 100px;
     width: 100%;
     display: flex;
     justify-content: space-evenly
-} */
+}
 
 .container3 {
     background-color: red;
-    height: 500px;
+    height: 300px;
     width: 100%;
     display: flex;
-    justify-content: space-evenly
+    justify-content: space-evenly;
+    margin-top: 10px
 }
 
 #character1 {
@@ -140,4 +141,94 @@ body {
     width: 75px;
     background-color: black;
     color: white;
+}
+
+#characterBio1 {
+    background-color: blue;
+    height: 90px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#characterBio2 {
+    background-color: blue;
+    height: 90px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#characterBio3 {
+    background-color: blue;
+    height: 90px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#characterBio4 {
+    background-color: blue;
+    height: 90px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#characterBio5 {
+    background-color: blue;
+    height: 90px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#characterBio6 {
+    background-color: blue;
+    height: 90px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#bioInfo1 {
+    font-size: 12px;
+    display: none;
+}
+
+#bioInfo2 {
+    font-size: 12px;
+    display: none;
+}
+
+#bioInfo3 {
+    font-size: 12px;
+    display: none;
+}
+
+#bioInfo4 {
+    font-size: 12px;
+    display: none;
+}
+
+#bioInfo5 {
+    font-size: 12px;
+    display: none;
+}
+
+#bioInfo6 {
+    font-size: 12px;
+    display: none;
 }
