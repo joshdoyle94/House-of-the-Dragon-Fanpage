@@ -1,5 +1,8 @@
 body {
-    background-color: lightcoral;
+    /* background-color: black; */
+    background-image: url("https://th.bing.com/th/id/OIP.bgRhiSqs7wCHwwY-PuuEFAHaEo?pid=ImgDet&rs=1");
+    background-size: contain;
+    color: white;
 }
 
 #header {
@@ -13,7 +16,7 @@ body {
 }
 
 .container1 {
-    background-color: red;
+    /* background-color: red; */
     height: 300px;
     width: 100%;
     display: flex;
@@ -22,7 +25,7 @@ body {
 }
 
 .container2 {
-    background-color: red;
+    /* background-color: red; */
     height: 100px;
     width: 100%;
     display: flex;
@@ -30,16 +33,15 @@ body {
 }
 
 .container3 {
-    background-color: red;
+    /* background-color: red; */
     height: 300px;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
-    margin-top: 10px
 }
 
 #character1 {
-    background-color: blue;
+    background-color: white;
     height: 300px;
     width: 300px;
     display: flex;
@@ -49,7 +51,7 @@ body {
 }
 
 #character2 {
-    background-color: blue;
+    background-color: white;
     height: 300px;
     width: 300px;
     display: flex;
@@ -59,7 +61,7 @@ body {
 }
 
 #character3 {
-    background-color: blue;
+    background-color: white;
     height: 300px;
     width: 300px;
     display: flex;
@@ -69,7 +71,7 @@ body {
 }
 
 #character4 {
-    background-color: blue;
+    background-color: white;
     height: 300px;
     width: 300px;
     display: flex;
@@ -79,7 +81,7 @@ body {
 }
 
 #character5 {
-    background-color: blue;
+    background-color: white;
     height: 300px;
     width: 300px;
     display: flex;
@@ -89,7 +91,7 @@ body {
 }
 
 #character6 {
-    background-color: blue;
+    background-color: white;
     height: 300px;
     width: 300px;
     display: flex;
@@ -99,13 +101,14 @@ body {
 }
 
 .cardHeader {
+    color: black;
     width: 100%;
     height: 40px;
     display: flex;
     justify-content: center;
     font-size: 12px;
     margin-bottom: 5px;
-    border: solid black;
+    /* border: solid black; */
     text-align: center;
 }
 
@@ -144,7 +147,7 @@ body {
 }
 
 #characterBio1 {
-    background-color: blue;
+    /* background-color: blue; */
     height: 90px;
     width: 300px;
     display: flex;
@@ -154,7 +157,7 @@ body {
 }
 
 #characterBio2 {
-    background-color: blue;
+    /* background-color: blue; */
     height: 90px;
     width: 300px;
     display: flex;
@@ -164,7 +167,7 @@ body {
 }
 
 #characterBio3 {
-    background-color: blue;
+    /* background-color: blue; */
     height: 90px;
     width: 300px;
     display: flex;
@@ -174,7 +177,7 @@ body {
 }
 
 #characterBio4 {
-    background-color: blue;
+    /* background-color: blue; */
     height: 90px;
     width: 300px;
     display: flex;
@@ -184,7 +187,7 @@ body {
 }
 
 #characterBio5 {
-    background-color: blue;
+    /* background-color: blue; */
     height: 90px;
     width: 300px;
     display: flex;
@@ -194,7 +197,7 @@ body {
 }
 
 #characterBio6 {
-    background-color: blue;
+    /* background-color: blue; */
     height: 90px;
     width: 300px;
     display: flex;
